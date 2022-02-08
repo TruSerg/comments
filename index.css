@@ -1,0 +1,38 @@
+.btn {
+	padding: 15px;
+	color: red;
+	border: 0;
+	border-radius: 5px;
+	font-size: 15px;
+	background-color: #ADFF2F;
+ }
+
+ .wrapper {
+	 background-color: #FFDEAD;
+	 padding: 50px 50px;
+ }
+
+ .post-wrapper {
+	max-width: 50%;
+	margin-bottom: 30px;
+   background-color: #00FF7F;
+	margin: 0 auto;
+	padding: 20px;
+	margin-top: 50px;
+	margin-bottom: 10px;
+	border-radius: 10px;
+ }
+ 
+ .name {
+	 background-color: red;
+ }
+
+ .comment {
+	 background-color: #7FFFD4;
+	 max-width: 50%;
+	 margin: 0 auto;
+	 padding: 20px;
+	 margin-bottom: 10px;
+	 border-radius: 10px;
+ }
+
