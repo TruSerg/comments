@@ -40,7 +40,6 @@ const renderingPostsList = async () => {
       postsRender.innerHTML = `
 		<h2>${index + 1}. ${title}</h2>
 		<p>${body}</p>
-		<button class="btn">Comments</button>
 		`;
 
       postsRender.classList.add("post-wrapper");
